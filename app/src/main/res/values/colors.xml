@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary color of the app (shown in the app bar) -->
+    <color name="primary_color">#0277BD</color>
+
+    <!-- Primary dark color of the app (shown in the status bar) -->
+    <color name="primary_dark_color">#01579B</color>
+
+    <!-- Background color for app -->
+    <color name="background">#E1F5FE</color>
+
+    <!-- Background color for the Landmarks category -->
+    <color name="category_landmarks">#B3E5FC</color>
+
+    <!-- Background color for the Food category -->
+    <color name="category_food">#BBDEFB</color>
+
+    <!-- Background color for the shopping category -->
+    <color name="category_shopping">#B2EBF2</color>
+
+    <!-- Background color for the services category -->
+    <color name="category_services">#B2DFDB</color>
+</resources>

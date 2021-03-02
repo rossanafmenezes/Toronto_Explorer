@@ -1,0 +1,130 @@
+<resources>
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">Toronto Explorer</string>
+
+    <!-- Category name for phrases [CHAR LIMIT=20] -->
+    <string name="category_landmarks">Landmarks</string>
+
+    <!-- Category name for the vocabulary words for colors [CHAR LIMIT=20] -->
+    <string name="category_food">Food</string>
+
+    <!-- Category name for the vocabulary words for numbers [CHAR LIMIT=20] -->
+    <string name="category_shopping">Shop</string>
+
+    <!-- Category name for the vocabulary words for family members [CHAR LIMIT=20] -->
+    <string name="category_services">Services</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="food_name_1">Distillery District</string>
+    <string name="food_info_1">55 Mills st, Toronto</string>
+
+    <string name="food_name_2">St. Lawrence Market</string>
+    <string name="food_info_2">93 Front St, Toronto</string>
+
+    <string name="food_name_3">Kensingto Market</string>
+    <string name="food_info_3">Kensington Ave, Toronto</string>
+
+    <string name="food_name_4">360 The Restaurant at the CN Tower</string>
+    <string name="food_info_4">290 Bremmer Blvd, Toronto</string>
+
+    <string name="food_name_5">Grey Gardens</string>
+    <string name="food_info_5">199 Augusta Ave, Toronto</string>
+
+    <string name="food_name_6">Pukka</string>
+    <string name="food_info_6">5778 St Clair Ave W, Toronto</string>
+
+    <string name="food_name_7">Pinkys Ca Phe</string>
+    <string name="food_info_7">53 Clinton St, Toronto</string>
+
+    <string name="food_name_8">Alo Restaurant</string>
+    <string name="food_info_8">163 Spadina Ave, Toronto</string>
+
+    <string name="food_name_9">Chubbys Jamaican Kitchen</string>
+    <string name="food_info_9">104 Portland St, Toronto</string>
+
+    <string name="food_name_10">Dailo</string>
+    <string name="food_info_10">5053 College St, Toronto</string>
+
+    <string name="food_name_11">Ristorante Sotto Sotto</string>
+    <string name="food_info_11">120 Avenue Rd Toronto</string>
+
+    <string name="food_name_12">Canoe</string>
+    <string name="food_info_12">66 Wellington St W, 54th floor, Toronto</string>
+
+    <string name="food_name_13">Buca Osteria and Bar</string>
+    <string name="food_info_13">53 Scollard St, Toronto</string>
+
+    <string name="landmark_name_1">CN Tower</string>
+    <string name="landkark_info_1">290 Bremmer Blvd, Toronto</string>
+
+    <string name="landmark_name_2">Casa Loma</string>
+    <string name="landkark_info_2">1 Austin Terrace, Toronto</string>
+
+    <string name="landmark_name_3">ROM - Royal Ontario Museum</string>
+    <string name="landkark_info_3">100 Queens Park, Toronto</string>
+
+    <string name="landmark_name_4">High Park</string>
+    <string name="landkark_info_4">1873 Bloor St W, Toronto</string>
+
+    <string name="landmark_name_5">Toronto Zoo</string>
+    <string name="landkark_info_5">2000 Meadowvale Rd, Toronto</string>
+
+    <string name="landmark_name_6">Riplyes Aquarium of Canada</string>
+    <string name="landkark_info_6">288 Bremmer Blvd, Toronto</string>
+
+    <string name="landmark_name_7">AGO - Art Gallery of Ontario</string>
+    <string name="landkark_info_7">317 Dundas St W, Toronto</string>
+
+    <string name="landmark_name_8">Toronto Island - Ferry Boat</string>
+    <string name="landkark_info_8">9 Queens Quay W, Toronto</string>
+
+    <string name="services_name_1">Emergency</string>
+    <string name="services_info_1">Dial 911</string>
+
+    <string name="services_name_2">Transportation</string>
+    <string name="services_info_2">TTC (Subway, Bus, Streetcar), Taxi, Uber, Lift</string>
+
+    <string name="services_name_3">Tourist Information</string>
+    <string name="services_info_3">At Union Stations Telephone 416 392 9300</string>
+
+    <string name="services_name_4">Toronto Tourism Website</string>
+    <string name="services_info_4">https://www.seetorontonow.com</string>
+
+    <string name="services_name_5">Toronto Pearson Airport</string>
+    <string name="services_info_5">6301 Silver Dart Dr, Toronto</string>
+
+    <string name="services_name_6">Billy Bishop Toronto City Airport</string>
+    <string name="services_info_6">2 Eireann Quay, Toronto</string>
+
+    <string name="services_name_7">Toronto Public Health Chat</string>
+    <string name="services_info_7">For non-emergency medical advice 24/7 at 1866 797 0000</string>
+
+    <string name="services_name_8">Toronto Events Calendar</string>
+    <string name="services_info_8">https://www.toronto.com/events-calendar/</string>
+
+    <string name="shopping_name_1">CF Eaton Center</string>
+    <string name="shopping_info_1">220 Youge St, Toronto</string>
+
+    <string name="shopping_name_2">Yorkville Village</string>
+    <string name="shopping_info_2">50 Bloor St W, Toronto</string>
+
+    <string name="shopping_name_3">Yorkdale Shopping Center</string>
+    <string name="shopping_info_3">3401 Dufferin St, Toronto</string>
+
+    <string name="shopping_name_4">Vaughan Mills</string>
+    <string name="shopping_info_4">1 Bass Pro Mills Dr, Vaughan</string>
+
+    <string name="shopping_name_5">The Path</string>
+    <string name="shopping_info_5">10 Dundas St E, Toronto</string>
+
+    <string name="shopping_name_6">Toronto Premium Outlet</string>
+    <string name="shopping_info_6">13850 Steeles Ave W, Halton Hills</string>
+
+    <string name="shopping_name_7">Dixie Outlet Mall</string>
+    <string name="shopping_info_7">1250 S Service Road, Mississauga</string>
+
+    <string name="shopping_name_8">Canada One</string>
+    <string name="shopping_info_8">7500 Lundys Ln, Niagara Falls</string>
+
+</resources>
